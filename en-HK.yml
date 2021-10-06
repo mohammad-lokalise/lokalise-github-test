@@ -2,7 +2,7 @@ en-HK:
   company:
     collect_payees:
       form:
-        bank_statement_link_text: "bank account statement"
+        bank_statement_link_text: "bank account statements"
         verify_company_bank_details: "To help us verify your company’s bank details, upload your company’s %{bank_statement_link} (.png, .jpg or .pdf)."
         average_invoice_tooltip: "This will help us cater to your business needs better."
         expected_volume_tooltip: "All mediums refer to all payment methods such as cash, cheque, bank transfer and credit cards. This helps us understand your payment collection needs better."
