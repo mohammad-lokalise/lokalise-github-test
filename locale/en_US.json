@@ -1,0 +1,1669 @@
+{
+    "Test_Key_01": "",
+    "Test_Key_03": "",
+    "Test_Key_04": "",
+    "Test_Key_05": "",
+    "Test_Key_06": "",
+    "Test_Key_07": "",
+    "Test_Key_08": "",
+    "Test_Key_22": "",
+    "Test_Key_02": "",
+    "headlineBanner": {
+        "joinQuest": "Earn exclusive rewards by completing launch quests",
+        "topUp": "Add funds and top up your account to make sure you're ready for time sensitive drops"
+    },
+    "headline": {
+        "first": "An NFT marketplace",
+        "second": "empowering creators,",
+        "third": "collectors, and communities",
+        "fourth": "to do good"
+    },
+    "by": "by",
+    "shortintro": "Join the adventure",
+    "sectionOne": {
+        "intro": "Creators get together",
+        "title": "Unlocking Collective Empowerment",
+        "description": "DoinGud is a next-gen NFT platform working on empowering creators, curators, brands & organizations to engage with their audience, tap into sustainable compensation streams, generate value for their audiences, collaborate seamlessly, and create meaningful impact."
+    },
+    "sectionTwo": {
+        "intro": "Let's decentralize",
+        "title": "Invested in our Community",
+        "description": "We are building an NFT ecosystem where your passion has the ability to create social impact with your own rules. Invited creators can onboard colleagues. Brands and communities can open meta-galleries to house their artists. Anyone can submit their artwork to a pool to be represented by a community gallery."
+    },
+    "sectionThree": {
+        "intro": "Why DoinGud?",
+        "title": "Forward-Thinking & Future-Proof",
+        "description": "We're collaborating and building with some of the brightest creators, technologists, communities, and blockchain companies to bring you a next-gen NFT experience. Our platform addresses common issues in the current NFT space by ensuring more resilient media storage, multi-currency support (fiat & crypto), automated collaboration payments, and complete transaction transparency."
+    },
+    "footer": {
+        "title": "Are you ready?",
+        "subtitle": "Begin your NFT journey with DoinGud",
+        "nlform": {
+            "heading": "Join our newsletter",
+            "title": [
+                "Subscribe to",
+                "our newsletter"
+            ],
+            "tagline": "Don’t miss our updates"
+        },
+        "success": "Thank you for subscribing",
+        "description": "You have successfully signed up for our newsletter.",
+        "languages": "Languages",
+        "privPolicy": "Privacy Policy",
+        "tc": "Terms & Conditions",
+        "cookies": "Cookies",
+        "languagesSelect": "Select Language",
+        "legalText": "We process your personal data based on our legitimate interest. You can learn more about this processing in our"
+    },
+    "signup": "Sign Up",
+    "subscribe": "Subscribe",
+    "dates": {
+        "monthsShort": {
+            "january": "Jan",
+            "february": "Feb",
+            "march": "Mar",
+            "april": "Apr",
+            "may": "May",
+            "june": "Jun",
+            "july": "Jul",
+            "august": "Aug",
+            "september": "Sep",
+            "october": "Oct",
+            "november": "Nov",
+            "december": "Dec"
+        },
+        "weekdaysShort": {
+            "sunday": "Sun",
+            "monday": "Mon",
+            "tuesday": "Tue",
+            "wednesday": "Wed",
+            "thursday": "Thu",
+            "friday": "Fri",
+            "saturday": "Sat"
+        }
+    },
+    "success": "Successfully submitted",
+    "error": {
+        "email": "Email address is invalid",
+        "network": {
+            "title": "Wrong network",
+            "detail": "Please connect to the appropriate Ethereum network",
+            "link": "How to connect to Polygon network?"
+        },
+        "unknown": "Something was wrong, could you retry?"
+    },
+    "register": "Register",
+    "sectionFour": {
+        "intro": "Mindfully Built",
+        "title": "Sustainable, Accessible, & Flexible",
+        "description": "We're focused on the future, and being flexible in an ever-evolving space is important to ensure you generate a positive impact for your creations. Our scalable Proof-of-Stake infrastructure allows you to mint confidently with reduced climate impact, low fees, and future interoperability."
+    },
+    "login": {
+        "heading": "Enter your email",
+        "subtitle": "You will receive an email with a magic link to create a new account",
+        "email": "Email",
+        "walletConn": "Connect your wallet",
+        "sent": "Email sent",
+        "emailConf": "We've emailed you the magic link. Please go to your email and click confirm.",
+        "openEmail": "Open email app",
+        "wcSubTitle": "Please pick a wallet to connect to Doingud",
+        "wcDisclaimer": "We do not own your private keys and cannot access your funds without your confirmation.",
+        "mailVerified": "Successfully verified your email",
+        "didAuthorization": "Now, please follow the instructions from 3ID connect popup window",
+        "ceramic": {
+            "title": "Connect profile",
+            "description": "Let’s connect your DID with your profile on DoinGud to have a decentralized profile",
+            "connect": "Connect DID",
+            "link": "Find out what Ceramic Network and DID are",
+            "warning": "We are using Ceramic mainnet network, if prompted choose create new account option"
+        },
+        "alert": "Accounts created with email will not be able to withdraw their crypto coins at the beginning.",
+        "emailConfirm": "Email Confirmation"
+    },
+    "profile": {
+        "heading": "<0>Welcome<\/0><1><\/1> to DoinGud.",
+        "subtext": "We're excited for you to join our <0><\/0> vibrant community of creators",
+        "title": "Personal Profile Set-up",
+        "subtitle": "You can set preferred personal user name, describe yourself and manage other personal settings. ",
+        "optional": "Optional",
+        "username": "Username",
+        "userPlaceholder": "@username",
+        "email": "Email",
+        "emailPlaceholder": "Add your email",
+        "subscribeCheck": "Subscribe to newsletter",
+        "imageCaption": "We recommend an image of at least 400x400",
+        "bio": "Biography",
+        "bioPlaceHolder": "Tell us about you!",
+        "site": "Personal site",
+        "sitePlaceHolder": "Enter the URL of your personal site",
+        "question": "Interested in adding yourself to the waiting list to submit your own creations?",
+        "alert": "This is only for individuals, you will be able to create organizations in the next step",
+        "consent": {
+            "title": "We need your consent",
+            "subtitle": "By accepting this you are creating a new account.",
+            "terms": "Terms of Use"
+        },
+        "userCaption": "Must have 6-20 characters. Can't have spaces.",
+        "errors": {
+            "username": {
+                "alreadyTaken": "Username is already taken, please choose another one."
+            },
+            "userExists": "Error while creating user: User already exists",
+            "userUnauthorized": "Error while creating user: User unauthorized"
+        },
+        "mobileTitle": "Profile Set Up",
+        "mobileSubtitle": "Set a username, email, profile picture, and bio for your profile",
+        "imageLabel": "Profile image",
+        "sideBar": {
+            "twitterLink": "Twitter Link",
+            "instagramLink": "Instagram Link",
+            "editLink": "Edit profile",
+            "follow": "Follow",
+            "following": "Following",
+            "memberSince": "Member since %1$s",
+            "iCareImpact": "Supported SDGs",
+            "networkLink": "%1$s link",
+            "networkLinkUrl": {
+                "twitter": "https:\/\/twitter.com\/%1$s",
+                "instagram": "https:\/\/www.instagram.com\/%1$s",
+                "facebook": "https:\/\/www.facebook.com\/%1$s",
+                "discord": "https:\/\/discordapp.com\/users\/%1$s"
+            },
+            "seeFullProfile": "See full profile",
+            "hideProfile": "Hide profile",
+            "received": "received"
+        },
+        "financialSummary": {
+            "total": "Total sales",
+            "net": "Net revenue",
+            "pending": "Pending",
+            "claim": "Claim"
+        },
+        "confirmReview": "I have reviewed DoingGud’s Terms & Conditions and confirm that I agree to them. We are processing your personal data based on legitimate interest. You can read more in our",
+        "titleMobile": "Profile Set Up",
+        "claimFunds": {
+            "cta": "Claim",
+            "modal": {
+                "title": "Transfer pending revenues to your wallet",
+                "text": "If you are having any problem you can ping us on <0>Discord<\/0>.",
+                "warning": "You need %1$s Matic in order to make this transaction possible",
+                "confirm": "Confirm",
+                "addFunds": "Add funds"
+            }
+        },
+        "formErrors": {
+            "supportedImages": "Supported images are PNG \/ JPG.",
+            "imagesMaxSize": "Your profile picture is too heavy, it should be under 2MB.",
+            "emailFormat": "Email address is invalid",
+            "usernameFormat": "Only Alphabets and Numbers are allowed in this field.",
+            "biographyMaxLength": "Biography should contain less than 500 characters.",
+            "personalSiteFormat": "Invalid URL."
+        }
+    },
+    "or": "Or",
+    "next": "Next",
+    "back": "Back",
+    "skip": "Skip",
+    "yes": "Yes",
+    "notnow": "Not for now",
+    "accept": "Accept",
+    "start": "Start",
+    "save": "Save",
+    "consentConfirmation": "I confirm that I have reviewed and agree to the Terms of Use and acknowledge the Privacy Policy",
+    "shareWithFriends": {
+        "desktopText": "Share DoinGud with your friends and fellow creators for a chance to be noticed by our curation team.",
+        "mobileText": "Share with friends",
+        "buttonCta": "Share with friends"
+    },
+    "formActions": {
+        "submit": "Submit",
+        "update": "Update",
+        "cancel": "Cancel"
+    },
+    "unlockSuccessDialog": {
+        "title": "Congratulations",
+        "text": "Your journey with DoinGud starts now. Let’s submit amazing art and create social impact with your own rules.",
+        "ctaDash": "Go to Dashboard",
+        "ctaCreate": "Create new artwork"
+    },
+    "creatorDialog": {
+        "ctaText": "To create artwork",
+        "ctaHighlight": "enter your Creator Pass",
+        "title": "Create new artwork"
+    },
+    "unlockCreateForm": {
+        "label": "To unlock this feature enter your <0>Creator Pass<\/0>",
+        "placeholder": "Creator Pass",
+        "error": "The Creator Pass provided is invalid. Please verify and try again.",
+        "placeholderOnMobile": "Creator Pass",
+        "submit": "Submit"
+    },
+    "dashboard": {
+        "social": {
+            "text": "Improve your chances of getting a Creator Pass! We will be dropping codes to select creators who <0>Follow Us<\/0> and share their creations with the hashtag #DoinGud",
+            "ctaMobile": "Follow us on social media",
+            "ctaText": "We will be dropping codes.",
+            "ctaHighlight": "Follow Us!",
+            "follow": "Follow",
+            "mobileHeader": "Get your Creator Pass",
+            "mobileText": "Improve your chances to be noticed by our curation team",
+            "mobileCta": "Follow us on social media"
+        },
+        "profile": {
+            "completionWarning": "Please don't forget to complete your profile details.",
+            "goToCta": "Go to my profile"
+        },
+        "createModeCard": {
+            "cta": "Create a new artwork"
+        },
+        "createArtwork": {
+            "cta": "Create artwork"
+        },
+        "artworkActivity": {
+            "title": "Activity"
+        },
+        "filter": {
+            "draft": "Draft",
+            "openToOffers": "",
+            "pool": "Pool",
+            "forSale": "For Sale",
+            "live": "Live",
+            "sold": "Sold"
+        },
+        "tabs": {
+            "created": "Created",
+            "owned": "Owned",
+            "collected": "Collected",
+            "socialCauses": "Social Causes",
+            "impact": "Impact"
+        },
+        "socialCause": {
+            "suggestNew": "Suggest new",
+            "browseAll": "Browse all"
+        }
+    },
+    "editProfile": {
+        "title": "Edit profile",
+        "section": {
+            "about": "About",
+            "social": "Social"
+        },
+        "form": {
+            "header": {
+                "label": "Header Image",
+                "helper": "We recommend an image of at least 1500x500PX"
+            },
+            "profileImage": {
+                "label": "Profile Image",
+                "helper": "We recommend an image of at least 400x400"
+            },
+            "userName": {
+                "label": "username",
+                "placeholder": "@username"
+            },
+            "displayName": {
+                "label": "display name",
+                "placeholder": "Add your display name"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "Add your email",
+                "infoBox": "Add your email address to receive notifications about your activity on DoinGud. This will not be shown on your profile."
+            },
+            "biography": {
+                "label": "Biography",
+                "placeholder": "Tell us about you!"
+            },
+            "location": {
+                "label": "Your location",
+                "placeholder": "Add your city, country"
+            },
+            "sites": {
+                "label": "Personal Site",
+                "placeholder": "Enter the URL of your personal site",
+                "action": "add another one"
+            },
+            "sdgs": {
+                "label": "Social impact topics I care about",
+                "placeholder": "View All"
+            },
+            "twitter": {
+                "label": "Twitter Profile",
+                "placeholder": "Twitter Username"
+            },
+            "instagram": {
+                "label": "Instagram Profile",
+                "placeholder": "Instagram Username"
+            },
+            "linkedin": {
+                "label": "LinkedIn",
+                "placeholder": "LinkedIn URL"
+            },
+            "youtube": {
+                "label": "YouTube Channel",
+                "placeholder": "Channel URL"
+            },
+            "discord": {
+                "label": "Discord ID",
+                "placeholder": "Include #Code"
+            },
+            "facebook": {
+                "label": "Facebook Profile",
+                "placeholder": "Facebook URL"
+            }
+        },
+        "success": {
+            "title": "Profile updated",
+            "text": "Congratulations! Your profile was updated successfully"
+        },
+        "toastSuccess": "Your profile has been updated!"
+    },
+    "networkDialog": {
+        "title": "Wrong Network",
+        "text": "Please connect to the appropriate Ethereum network",
+        "highlight": "How to connect to Polygon network?",
+        "switchCta": "Select another wallet",
+        "callToAction": "Switch to Polygon",
+        "titleMumbai": "Mumbai network",
+        "callToActionMumbai": "Switch to Polygon Mumbai"
+    },
+    "navigation": {
+        "links": {
+            "dashboard": "Dashboard"
+        }
+    },
+    "metadata": {
+        "description": "DoinGud | An NFT marketplace empowering creators, collectors, curators, and communities to do good"
+    },
+    "select_input_options": {
+        "view_less": "view less"
+    },
+    "creator": {
+        "upload": {
+            "interface": "Drag and Drop your file.",
+            "defaultAlt": "Your creation",
+            "error": {
+                "format": "File format not allowed. Please try again!",
+                "size": "Size Exceeded",
+                "multiple": "Multiple Files is not supported",
+                "network": "Error while uploading"
+            },
+            "card": {
+                "title": "Upload Creation",
+                "onDrop": "Drop it",
+                "limit": "300MB limit",
+                "Uploading": "Uploading Creation"
+            }
+        }
+    },
+    "counter": {
+        "short": {
+            "days": "d",
+            "seconds": "s",
+            "minutes": "m",
+            "hours": "h"
+        },
+        "long": {
+            "days": "days",
+            "seconds": "seconds",
+            "minutes": "minutes",
+            "hours": "hours"
+        }
+    },
+    "dropCard": {
+        "coming": "Coming",
+        "notified": "Get notified",
+        "socialCause": "Social Cause",
+        "tomorrow": "Tomorrow"
+    },
+    "collectedCard": {
+        "buyCta": "Buy",
+        "claimCta": "Claim edition",
+        "editionNo": "Edition # %1$s",
+        "purchasedFor": "Bought for"
+    },
+    "artworkCardPublic": {
+        "dropSale": {
+            "currentBid": "Current bid",
+            "coming": "Coming",
+            "cta": "View creation"
+        },
+        "dropLive": {
+            "currentBid": "Current bid",
+            "endingIn": "Ending in",
+            "cta": "Place a bid"
+        },
+        "sold": {
+            "sold": "Sold",
+            "owner": "Owners",
+            "cta": "View creation"
+        },
+        "offersOnly": {
+            "cta": "View creation"
+        },
+        "instantBuy": {
+            "forSale": "For sale",
+            "cta": "Buy",
+            "viewCreationCta": "View creation"
+        },
+        "editions": "Editions"
+    },
+    "userDashMenu": {
+        "profileTag": {
+            "cta": "View dashboard",
+            "altCta": "Continue onboarding"
+        },
+        "dashLinks": {
+            "settings": "Settings",
+            "disconnect": "Disconnect",
+            "authenticateError": "Please authenticate",
+            "authenticate": "Connect DID",
+            "preferences": "Preferences",
+            "badges": "Badges",
+            "manageFunds": "Manage funds"
+        }
+    },
+    "frontPage": {
+        "header": {
+            "countdown": "Countdown",
+            "labelButton": "Preview drop",
+            "upcoming": "Upcoming",
+            "live": "Drop live",
+            "ended": "Drop has ended"
+        },
+        "subscriptionSection": {
+            "title": "Never Miss a Beat",
+            "text": "Subscribe to our weekly newsletter and be the first to know about upcoming DoinGud drops, news, and exclusive surprises",
+            "placeholder": "Your email",
+            "labelButton": "Subscribe",
+            "seeMore": "See more",
+            "seeLess": "See less",
+            "explain": "By clicking subscribe you agree to the processing of your personal data for purpose of sending the newsletter",
+            "explainFull": "Processing of personal data shall be executed based on your consent which you can withdraw at anytime within the newsletter itself. Your personal data shall be processed until you withdraw your consent. Processing of personal data shall be executed by the Controller, DoinGud. You can find more on personal data protection in our privacy policy."
+        },
+        "whatIsDoinGudSection": {
+            "subtitle": "Who we are",
+            "title": "We’re focused on inspiring creativity and positive social impact.",
+            "text": "We strive to be community-owned and curated, ensuring we empower our creators, curators, collectors, and communities to tap into sustainable income streams, creatively engage with their patrons, and create lasting impact for the causes they care about.",
+            "labelButton": "Connect"
+        },
+        "advantagesSection": {
+            "title": "Advantages",
+            "contentWhenIsEmpty": "Coming soon",
+            "item1": {
+                "title": "Accessible & Sustainable NFTs",
+                "text": "Eco-friendly & no prior crypto or blockchain experience needed to get started."
+            },
+            "item2": {
+                "title": "Collaboration & Fiat Payments",
+                "text": "Automated proceed distribution for all collaborators & social causes, credit cards accepted."
+            },
+            "item3": {
+                "title": "0% Minting & Platform Fees for Creators",
+                "text": "Creators earn up to 95% of their sales, with 5% min. to a cause they pick."
+            },
+            "item4": {
+                "title": "Community Owned & Curated Galleries",
+                "text": "Coming soon"
+            },
+            "item5": {
+                "title": "Multichain Minting & Interoperability",
+                "text": "Coming soon"
+            }
+        },
+        "howItWorksSection": {
+            "title": "How it works",
+            "baseline": "Basic concepts",
+            "accordion": {
+                "item1": {
+                    "title": "What are NFTs",
+                    "text": "NFTs are Non Fungible Tokens. These tokens can be represented as rare digital collectibles, artworks, virtual things, or even tickets to experiences. They mainly exist in the digital space (however some have physical counterparts), and offer unique features for collectors\/holders such as price transparency, provenance, and authenticity."
+                },
+                "item2": {
+                    "title": "How the platform works",
+                    "text": "We make it easy at DoinGud to get started on your NFT journey. No prior crypto or blockchain experience is needed. First step is to create an account with your email address. You may choose to use a pre-existing wallet or we’ll create one for you for your profile. If you are a creator and have received a Creator Pass, complete your profile and choose the social causes you care about. You are now allowed to upload your creations to your profile or submit them into our Curation Pool, where galleries (brands, curators, and communities) can find your work and choose to collaborate with you by either hosting your work for a drop or promoting it for sale within their gallery space. If you are a social cause, you can sign up to be a part of our eligible organizations from which creators can choose to donate a portion of their proceeds to. If you are a collector you can discover new creations, support creators, collect limited edition works, generate positive impact, and more."
+                },
+                "item3": {
+                    "title": "What are SDGs",
+                    "text": "At DoinGud, we are partnered with over 200+ Social Causes, and the number is growing every day. Each cause is verified and aligns with the 17 Sustainable Development Goals (SDGs) as outlined by the United Nations."
+                },
+                "item4": {
+                    "title": "How can I get involved?",
+                    "text": "The beauty of our ecosystem is in collaboration and communication, so we encourage you to explore our Discord community, social media channels, educational content, or sign up for our newsletter to stay up to date with all things DoinGud."
+                }
+            }
+        },
+        "news": {
+            "title": "Latest news",
+            "labelButton": "See all"
+        },
+        "pastDrops": {
+            "title": "Past Drops",
+            "labelButton": "See all"
+        },
+        "upcomingDrops": {
+            "title": "Upcoming Drops"
+        },
+        "partners": {
+            "title": "Partners"
+        }
+    },
+    "newFooter": {
+        "manifesto": "Manifesto",
+        "blog": "Blog",
+        "mentions": "© DoinGud. All Right Reserved.",
+        "cookies": "We use Cookies 🍪",
+        "privacy": "Privacy Policy",
+        "termsAndConditions": "Terms & Conditions",
+        "languages": "Languages",
+        "legal": "Legal",
+        "faqs": "FAQs",
+        "careers": "Careers",
+        "litepaper": "Litepaper"
+    },
+    "artworkCardPrivate": {
+        "editions": "Editions",
+        "price": "Price",
+        "sold": "Sold",
+        "owners": "Owners",
+        "unSeenProposals": "New proposals",
+        "unSeenOffers": "New offers",
+        "reservePrice": "Reserve Price",
+        "preferredPriceRange": "Preferred price range",
+        "openToAnySaleType": "Open to any sale type",
+        "forSale": "For sale",
+        "upcomingDrop": "Upcoming drop",
+        "upcomingExhibition": "Upcoming Exhibition",
+        "endingIn": "Ending In",
+        "to": "to",
+        "noTitle": "No Title",
+        "preferredPrice": "Preferred Price",
+        "sellPrice": "%1$s <0>%1$s<\/0>"
+    },
+    "tags": {
+        "draft": "Draft",
+        "offersOnly": "Offers Only",
+        "pool": "Pool",
+        "forSale": "For sale",
+        "proposal": "Proposal",
+        "gallery": "Gallery",
+        "dropLive": "Drop Live",
+        "sold": "Sold"
+    },
+    "emptyCollected": {
+        "title": "Collect your first creation",
+        "text": "Once you collected a creation, this is where you find it. Get your first creation today!",
+        "cta": "Explore creations"
+    },
+    "emptyCreation": {
+        "title": "You are ready to upload your first Creation",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sagittis porta orci vitae gravida.",
+        "cta": "Create",
+        "reminderText": "To upload your first creation, go to social causes and choose the ones you want to support."
+    },
+    "emptySocialCauses": {
+        "title": "Let your creation\n make an impact",
+        "text": "Every time you sell a creation part of the proceeds will go to a social impact organization. Choose the social issues you want to support and we will help you find the right organization for you.",
+        "cta": "Get started"
+    },
+    "emptyProfile": {
+        "title": "This user hasn't any\n activity yet."
+    },
+    "filterOptions": {
+        "all": "All",
+        "filterBy": "Filter by",
+        "sortBy": "Sort by",
+        "oldest": "Oldest First",
+        "newest": "Newest First"
+    },
+    "dropPage": {
+        "creator": "Creator",
+        "creator_plural": "Creators",
+        "gallery": "Gallery",
+        "ExhibitionOpens": "Exhibition opens in",
+        "coming": "Coming",
+        "dropCreations": "Drop Creations",
+        "getNotified": "Get Notified",
+        "socialCause": "Social cause supported",
+        "description": "Description",
+        "follow": "Follow",
+        "aboutTheCreator": "About the creator",
+        "multipleCauses": "Multiple Causes",
+        "multipleCreators": "Multiple Creators",
+        "preview": "Preview mode",
+        "connectGetNotified": "Connect and get notified",
+        "drop": {
+            "today": "Drop live in",
+            "live": "Drop live",
+            "closed": "Collection closed"
+        },
+        "exhibition": {
+            "today": "Exhibition live in",
+            "live": "Exhibition live",
+            "closed": "Collection closed"
+        }
+    },
+    "masonry": {
+        "cta": "View more"
+    },
+    "step": "Step",
+    "of": "of",
+    "profileOnboardTut": {
+        "step1": {
+            "title": "Select the topics that interest you.",
+            "text": "Then, browse our directory to see all the social impact causes you can support.",
+            "mobileTitle": "Select impact topics"
+        },
+        "step2": {
+            "title": "Add to your Causes list",
+            "text": "This is our general directory. Here you can browse, search, and save  social causes that speak to you. Choose as many as you want, you can always edit your Causes list later"
+        },
+        "step3": {
+            "title": "Choose your main cause",
+            "text": "The organization you set as your main cause will receive part of the profit on your next sale. You will be able to edit or change your main cause at all times."
+        },
+        "step4": {
+            "title": "You made it!",
+            "confirm": "You have a social cause",
+            "text": "Go to your profile anytime you want to change your bookmarks or your main cause",
+            "action": "Finish"
+        }
+    },
+    "sioCard": {
+        "received": "received",
+        "readMore": "Read more",
+        "supporting": "Creators supporting",
+        "creations": "Creations",
+        "setMain": "Set as my main cause",
+        "success": "SIO preference updated successfully",
+        "error": "There was an error saving your SIO preference"
+    },
+    "sdgSelectList": {
+        "browse": "Browse directory",
+        "select": "Social cause directory"
+    },
+    "common": {
+        "optional": "Optional",
+        "privacyPolicy": "privacy policy"
+    },
+    "optional": "Optional",
+    "userCard": {
+        "follow": "Follow",
+        "followers": "Followers",
+        "creations": "Creations"
+    },
+    "activity": {
+        "reserved": "<0>Edition n.%1$s<\/0> reserved to <1>@%1$s<\/1> for <2>%1$s<\/2> <4>%1$s<\/4>",
+        "mint": "<0>Edition #%1$s<\/0> minted to <1>@%1$s<\/1>",
+        "resale": "<0>@%1$s<\/0> purchased <1>edition #%1$s<\/1> for <2>%1$s USDC<\/2> from <3>@%1$s<\/3>",
+        "listed": "<0>@%1$s<\/0> listed for sale <1>edition #%1$s<\/1> for <2>%1$s USDC<\/2>",
+        "offer": "<0>@%1$s<\/0> placed an offer for <1>edition #%1$s<\/1> for <2>%1$s USDC<\/2>",
+        "transfer": "<0>@%1$s<\/0> transferred <1>edition #%1$s<\/1> to <2>@%1$s<\/2>",
+        "date": "%1$s at %1$s",
+        "showFullActivity": "Show full activity",
+        "showLessActivity": "Show less activity",
+        "user": "You",
+        "unknownUser": "Unknown"
+    },
+    "liveCountdown": {
+        "openEditions": {
+            "labelBid": "Edition price",
+            "labelCountdown": "Open Edition ending in",
+            "label": "Open Edition"
+        },
+        "rankedOpenEdition": {
+            "labelBid": "Minimum bid",
+            "labelCountdown": "Ranked Open Edition ending in",
+            "label": "Ranked Open Edition",
+            "helper": "Text to help explain Ranked Open Edition",
+            "secondaryLabelBid": "1st edition bid",
+            "entranceBid": "Price to enter",
+            "topBid": "1st edition bid",
+            "timeAdded": "added",
+            "hourShorthand": "%1$sh",
+            "minuteShorthand": "%1$sm"
+        },
+        "englishAuction": {
+            "labelBid": "Minimum bid",
+            "labelCountdown": "English Auction ending in",
+            "label": "English Auction",
+            "locked": "A 24 hours auction will begin once a bid has been placed."
+        },
+        "dutchAuction": {
+            "labelBid": "Current price",
+            "labelCountdown": "Dutch Auction ending in",
+            "started": "Started",
+            "end": "End",
+            "soldPreviousEditions": "Sold previous editions",
+            "label": "Dutch Auction"
+        },
+        "auction": "Auction",
+        "start": "%1$s starts in",
+        "end": "%1$s ending in",
+        "1stEdition": "<0>Don't lose that first place!<\/0> Bid to get the 1st edition."
+    },
+    "artworkPage": {
+        "galleryLabel": "Gallery",
+        "dropLabel": "Drop",
+        "exhibitionLabel": "Exhibition",
+        "ownerLabel": "Owner",
+        "moreWorks": "More works by %1$s",
+        "socialCause": "Social Cause",
+        "activity": "Activity",
+        "serial": "Serial n. %1$s",
+        "edition": "Edition of %1$s",
+        "editionOf": "Edition #%1$s of %1$s",
+        "optionEditionActivity": "Open Edition activity",
+        "englishAuction": "English Auction activity",
+        "dutchAuction": "Dutch Auction activity",
+        "editionDropdown": "Edition #%1$s",
+        "serialDropdown": "Serial n.%1$s",
+        "SellOnMyProfile": "Sell on my profile",
+        "SubmitToPool": "Submit to pool",
+        "instantBuy": {
+            "cta": "Price: <0>%1$s USDC<\/0>",
+            "owned": "Owned"
+        },
+        "rankedOpenEdition": {
+            "resale": {
+                "price": "Price: <0>%1$s USDC<\/0>",
+                "cta": "Buy"
+            },
+            "minBidMobile": "Minimum bid: <0>%1$s USDC<\/0>",
+            "1stEditionBid": "1st edition bid: <0>%1$s USDC<\/0>",
+            "minBid": "Minimum bid to get an edition: <0>%1$s USDC<\/0>",
+            "1stEditionCta": "Bid higher",
+            "placeBidCta": "Place a bid",
+            "claim": "Claim",
+            "owned": "Owned",
+            "claimLabel": "You get: <0>Edition n. %1$s<\/0>"
+        }
+    },
+    "artworkSticky": {
+        "price": "Price:",
+        "buy": "Buy",
+        "placeABid": "Place a bid",
+        "makeAnOffer": "Make an offer",
+        "minimumPrice": "Minimum Price:",
+        "minimumBid": "Minimum Bid:",
+        "currentPrice": "Current Price:"
+    },
+    "shareModal": {
+        "title": "Share creation",
+        "copyCta": "Copy Link"
+    },
+    "404Page": {
+        "title": "OH! LOOKS LIKE YOU GOT LOST ",
+        "cta": "Take me back home"
+    },
+    "verifySocials": {
+        "connect": "Connect",
+        "disconnect": "Disconnect",
+        "verify": "Verify your profile",
+        "show": "Show our ecosystem that your profile is authentic.",
+        "verifyVia": "Verify via %1$s",
+        "userName": "%1$s username"
+    },
+    "continue": "continue",
+    "twitterVerification": {
+        "title": "Verify Twitter",
+        "step1": {
+            "text1": "1.  Step one",
+            "title": "Post a public tweet that contains",
+            "text2": "\"I'm verifying my Twitter account with @DoinGudHQ. Check out my profile\"",
+            "cta": "Post Tweet"
+        },
+        "step2": {
+            "text1": "2.  Step two",
+            "title": "Post the URL of the tweet to verify your profile",
+            "placeholder": "Twitter URL",
+            "cta": "Confirm"
+        },
+        "invalidUrl": "URL not valid. Please try another one",
+        "tweetText": "I'm verifying my Twitter account with @DoinGudHQ. Check out my profile %1$s"
+    },
+    "genesisPack": {
+        "title": "NFT Genesis Raffle Ticket",
+        "baseline": "Check it soon to see if you are winner",
+        "stayTuned": "Stay tuned"
+    },
+    "shareLinks": {
+        "twitter": "Join me on @doingudhq, an NFT ecosystem empowering creators, collectors, curators, and communities to do good. %1$s",
+        "linkedin": "Join me on @doingudhq, an NFT ecosystem empowering creators, collectors, curators, and communities to do good. #DoinGud %1$s",
+        "facebook": "Join me on @doingudhq, an NFT ecosystem empowering creators, collectors, curators, and communities to do good. #DoinGud %1$s",
+        "reddit": "Join me on @doingudhq, an NFT ecosystem empowering creators, collectors, curators, and communities to do good. #DoinGud %1$s",
+        "telegram": "Join me on @doingudhq, an NFT ecosystem empowering creators, collectors, curators, and communities to do good. #DoinGud %1$s",
+        "whatsapp": "Join me on @doingudhq, an NFT ecosystem empowering creators, collectors, curators, and communities to do good. #DoinGud %1$s"
+    },
+    "buidlPage": {
+        "title": "Join the DoinGud team",
+        "baseline": "Create an impactful ecosystem for  creators, collectors, curators, and communities to do good.",
+        "registerTitle": "Want to <0>buidl<\/0> with us?",
+        "registerPlaceholder": "Your email",
+        "registerCta": "Count me in!",
+        "jobTitle": "Open positions",
+        "jobCta": "View All",
+        "empowerTitle": "Empowering Meaningful Creation",
+        "empowerCta": "View More"
+    },
+    "tagInput": {
+        "label": "Tags",
+        "placeholder": "Tags (separated by commas)"
+    },
+    "launchEvent": {
+        "title": "Empowering Meaningful Creation",
+        "baseline": "DoinGud is an NFT ecosystem for creators, collectors, curators, and communities to do good.",
+        "cta": "Connect",
+        "litepaper": "Litepaper"
+    },
+    "invalidUrl": "Invalid URL",
+    "addressCopied": "address copied!",
+    "seeAll": "See all",
+    "confirm": "Confirm",
+    "sdgOnboard": {
+        "title": "Social cause directory",
+        "headerTextTop": "Be part of a game",
+        "headerTextBottom": "changing community",
+        "search": "Search by name or location",
+        "error": "An error occurred while saving your preferred sdg"
+    },
+    "sdgSearchResults": {
+        "results": "About %1$s results"
+    },
+    "collectionInput": {
+        "label": "Collection",
+        "placeholder": "Name your creation"
+    },
+    "cookies": {
+        "alert": "We use cookies on our Site to improve your experience and exercise analytics on our Site. You can read more on our cookie usage in our <0>Cookies Policy<\/0>, including how you can block or remove certain cookies."
+    },
+    "creationPostModal": {
+        "title": "Yay! Creation posted successfully",
+        "baseline": "Yay! Creation posted successfully",
+        "primaryAction": "Sell on my profile",
+        "secondaryAction": "Submit to pool"
+    },
+    "makeImpactModal": {
+        "title": "Let your creation \n make an impact",
+        "baseline": "Every time you sell a creation part of the proceeds will go to a social impact organization. Choose the social issues you want to support and we will help you find the right organization for you.",
+        "primaryAction": "Get started"
+    },
+    "artworkConfirmationModal": {
+        "title": "Are you sure you \n don't forget anyone?",
+        "baseline": "Make sure you edited the Social Cause and included all the creators, as they cannot be edited when you put your creations on sale.",
+        "saveMyPreference": "Don't show me this message next time",
+        "primaryAction": "Continue",
+        "secondaryAction": "Edit creation info"
+    },
+    "socialCause": {
+        "input": {
+            "label": "Social cause",
+            "placeholder": "Add a cause you care about"
+        },
+        "modal": {
+            "title": "Social cause",
+            "text": "With the sales of your creation you will contribute with Social Cause. Choose the organization you want to support.",
+            "search": "Search by name",
+            "action": "Select",
+            "favorites": "My favorites",
+            "suggested": "Suggested",
+            "searchResult": "%1$s Search Result",
+            "selected": "Selected",
+            "viewProfile": "View Profile"
+        },
+        "profile": {
+            "title": "Social Cause",
+            "emptyState": "Be the first one on supporting (%1$s)",
+            "emptyStateAction": "Add to my list",
+            "addedSIO": "Social Cause added to your list"
+        },
+        "tabs": {
+            "creations": "Creations supporting us",
+            "collected": "Collected",
+            "impact": "Impact",
+            "soon": "Coming soon"
+        }
+    },
+    "thumbnailUploader": {
+        "change": "Change"
+    },
+    "artworkCreationForm": {
+        "title": "Creation info",
+        "nameLabel": "Title",
+        "thumbnailLabel": "Thumbnail",
+        "namePlaceholder": "Name your creation",
+        "descriptionLabel": "Description",
+        "descriptionPlaceholder": "Write a description for your creation (1000 characters max)",
+        "collaboratorLabel": "Create a split",
+        "collaboratorPlaceholder": "Add new Co-creator",
+        "unLockableContentLabel": "Write your unlockable content",
+        "unLockableContentPlaceholder": "An external link, a secret message...",
+        "collectionLabel": "Collection title",
+        "collectionPlaceholder": "Name your creation",
+        "draftCta": "Save draft",
+        "postCta": "Post",
+        "noEditCreatorsSocialCause": "You can’t edit Creators and Social Cause while your creation is on pool. Withdraw from pool to edit this fields."
+    },
+    "collaboratorSelect": {
+        "input": {
+            "label": "Create a split",
+            "placeholder": "Add new Co-creator"
+        },
+        "title": "Co-creators",
+        "text": "Share the authorship with other users. We’ll split the earnings and deposit them on the corresponding wallets",
+        "action": "Save Change",
+        "addCreator": "Add Creator"
+    },
+    "userSearch": {
+        "placeholder": "ETH Wallet address or Username"
+    },
+    "multipleCreators": "Multiple Creators",
+    "collectionTitle": {
+        "label": "Collection Title",
+        "placeholder": "Create or add to a collection"
+    },
+    "artworkDraft": {
+        "SellOnMyProfile": "Sell on my profile",
+        "SubmitToPool": "Submit to pool",
+        "sellOnMyProfile": "Sell on my profile",
+        "submitToPool": "Submit to pool",
+        "saveChanges": "Save changes",
+        "saleSettings": "Sale Settings"
+    },
+    "submitToPool": {
+        "cta": "Submit to pool",
+        "title": "Submit to pool",
+        "helpText": "Your creation will join the community curation pool. You may receive proposals to list it in specific galleries, which you may review, negotiate, accept, or reject",
+        "action": "sign"
+    },
+    "saleSettings": {
+        "userProfit": "Your profit",
+        "cta": "Sale settings",
+        "title": "Sale settings",
+        "price": "price",
+        "suggestedPrice": "Suggested price",
+        "editions": "Number of editions",
+        "editionHelp": "Set the number of editions patrons can purchase",
+        "primary": "Primary market",
+        "secondary": "Secondary market",
+        "secondaryHelp": "Set how the profit from resale will be distributed.",
+        "primaryHelp": "Set how the profits from the first sale will be distributed.",
+        "creatorProfit": "Creators Profit",
+        "userProfitPercentage": "Your profit (%1$s%)",
+        "creatorSecondaryPercentage": "Creators profit (%1$s%)",
+        "sioSecondaryPercentage": "%1$s (%1$s%)",
+        "estimation": "*Estimated profit per edition in Fiat currency",
+        "errorSum": "The sum of the percentages cannot exceed %1$s%",
+        "creatorRoyalty": "Creators royalties",
+        "review": "Review details",
+        "reviewText": "Make sure you edit the Social Cause and include all the creators, as they cannot be edited when you put your creations on sale.",
+        "totalProfit": "Total per edition",
+        "noFee": "The platform doesn't charge creators any fees for selling their creations",
+        "terms": "By confirming this you agree to our <0>Terms and Conditions<\/0>",
+        "percentBenefit": "<0>%1$s%<\/0> <2>of benefits<\/2>",
+        "submitToPool": "Submit to pool",
+        "signToSubmit": "Sign to submit",
+        "saleSettings": "Sale Settings",
+        "confirm": "Confirm",
+        "saleOnProfile": "Sale on profile",
+        "creatorRoyalties": "Creators Royalties",
+        "creator": "Creator",
+        "royalties": "%1$s royalties",
+        "profit": "%1$s profit",
+        "editionCount": "%1$s editions",
+        "publish": "Publish",
+        "maxCreatorProfitError": "Creator profit must not exceed %1$s%",
+        "minSioError": "Sio profit must be equal to or greater than %1$s%",
+        "minSioSecondaryError": "Sio profit must be equal to or greater than %1$s%"
+    },
+    "resale": {
+        "title": "Sell on profile",
+        "creationName": "Creation name",
+        "edition": "Edition #%1$s",
+        "sharesPreview": "Shares preview",
+        "lastPrice": "Last price"
+    },
+    "rankedOpenBid": {
+        "title": "Ranked Open Edition bid",
+        "text": "Bidding ensures you get an edition of this creation",
+        "readMore": "Read how Ranked Open Edition works",
+        "method": "Payment method",
+        "error": {
+            "auctionNotStarted": "Ranked open edition auction has not started yet"
+        },
+        "pending": {
+            "title": "Bid in progress",
+            "detailBox": "Processing transaction",
+            "warning": "This can take up to 1 minute. We’ll notify you once its ready"
+        },
+        "success": {
+            "title": "Bid in progress",
+            "detailBox": "Succeeded transaction"
+        },
+        "failed": {
+            "title": "Bid in progress",
+            "detailBox": "Failed transaction",
+            "warning": "Your transaction could not be completed, please try again"
+        },
+        "txUnfinished": {
+            "title": "The transaction could not be completed",
+            "warning": "Your transaction could not be completed, please try again"
+        }
+    },
+    "flashEdition": {
+        "title": "Flash 1st Edition Auction",
+        "text": "For a limited time, bid for the 1st edition of this creation.",
+        "readMore": "Read how Flash 1st Edition works",
+        "extraTime": "If a bid is placed, the auction will extend for X minutes.",
+        "cardWarning": "Payment with credit cards could be longer than with cryptocurrencies. You could be outbid during the process.",
+        "payment": "The payment service fee is calculated over the total of your bid plus DoinGud service charge."
+    },
+    "bidNumeration": {
+        "enter": "Price to enter",
+        "edition1": "1st edition bid",
+        "estimation": "Estimated numeration",
+        "bid": "<0>Edition n. %1$s<\/0> to @<1>%1$s<\/1> for <2>%1$s<\/2>",
+        "minBid": "Mininum bid"
+    },
+    "bidSummary": {
+        "title": "Bid summary",
+        "yourBid": "Your bid",
+        "dgFee": "DoinGud service charge (%1$s%)",
+        "wertFee": "Wert fee (%1$s%)*",
+        "youPay": "You will pay",
+        "cause": "Social cause",
+        "yourSupport": "You are supporting %1$s with %1$s",
+        "secondaryMarket": "Secondary market",
+        "secondarySummary": "Creators, Social Cause and Gallery get <0>%1$s % of resale revenue<\/0>"
+    },
+    "bidTerms": {
+        "label": "By checking this box, I agree to <0>DoinGud's Terms and Services<\/0>"
+    },
+    "checkout": {
+        "bidLabel": "Your bid",
+        "previousBid": "Your last bid",
+        "flashBidMessage": "Must outbid current highest bid <0>%1$s<\/0> USDC by <1>%1$s<\/1> USDC",
+        "card": {
+            "service": "Payment service",
+            "wert": "Wert",
+            "proceed": "Proceed with payment"
+        },
+        "wallet": {
+            "balance": "Balance: %1$s",
+            "nextSteps": "Follow next steps",
+            "permission": "Permission to use USDC in your wallet",
+            "completeTransaction": "To complete the transaction DoinGud needs to use USDC from your wallet",
+            "givePermission": "Give permission",
+            "placeBid": "Place bid",
+            "requestSignature": "Your wallet will request your signature to complete your purchase",
+            "sendTransaction": "Send transaction",
+            "insufficientBalance": "You need %1$s %1$s in order to make transaction possible",
+            "insufficientBalances": "You need %1$s %1$s and %1$s %1$s in order to make transaction possible",
+            "addFunds": "Add funds",
+            "completePurchase": "Complete purchase",
+            "waitingForConfirmation": "Waiting for confirmation"
+        },
+        "pending": {
+            "title": "Bid in process",
+            "transId": "Transaction ID",
+            "message": "This can take a couple of minutes. Once it’s ready, you’ll see it through your notifications",
+            "watchLive": "Watch live auction"
+        },
+        "error": {
+            "title": "The transaction could not be completed",
+            "message": "Error Detail, lorem ipsum dolor sit amet, consectetur adipiscing elit ornare id sit amet.",
+            "tryAgain": "Try again",
+            "minimum": "Your bid cannot be less than 0",
+            "outbid": "You're out bid!",
+            "previousMin": "Your bid cannot be less than your previous bid %1$s",
+            "rankedMin": "Your bid cannot be less than the minimum %1$s"
+        },
+        "unkwownMethod": "Not authorized purchase method"
+    },
+    "saveChange": "Save Change",
+    "organization": {
+        "add": {
+            "heading": "Add organization",
+            "representTab": "I legally represent an organization",
+            "recommendTab": "I want to recommend an organization",
+            "state": "Saved",
+            "labels": {
+                "name": "Name of organization",
+                "countryImpact": "Country of impact",
+                "description": "Organization Description",
+                "goal": "Which developpement goal (SDG) are you solving?",
+                "countryRegister": "Country of register",
+                "taxNumber": "Legal tax number",
+                "legalName": "Legal registered name",
+                "email": "contact email",
+                "website": "Website",
+                "addLinks": "add more links",
+                "twitter": "Twitter profile",
+                "instagram": "Intagram profile",
+                "youtube": "Youtube",
+                "linkedin": "Linkedin profile",
+                "facebook": "Facebook profile",
+                "alertInfo": "Remember that all donations are made in fiat and crypto payments",
+                "primary": "Name of Primary contact",
+                "emailPrimary": "Email of primary contact",
+                "expectedBudgetNextYear": "What is your expected budget spending for the next year?"
+            },
+            "placeholders": {
+                "organization": "Enter organization name",
+                "countriesImpact": "Select a country\/countries",
+                "description": "Write description",
+                "goal": "Select as much as you consider",
+                "countryRegister": "Select country",
+                "tax": "Registry number",
+                "legalName": "Enter legal registered name",
+                "contactEmail": "Enter contact email",
+                "orgUrl": "Share your website",
+                "contact": "Enter the name",
+                "email": "Enter email",
+                "website": "Enter url",
+                "twitter": "Twitter username",
+                "instagram": "Instagram username",
+                "youtube": "Channel URL",
+                "linkedin": "Linkedin link",
+                "facebook": "Facebook username",
+                "expectedBudgetNextYear": "Your budget in USD"
+            },
+            "errors": {
+                "invalidUrl": "URL is not valid",
+                "invalidEmail": "Email is not valid",
+                "invalidSocialNetwork": "Invalid URL",
+                "nameLess200Characters": "Name should be less than 200 characters",
+                "noCountrySelected": "No country was selected",
+                "descriptionLess500Characters": "Description should be less than 500 characters",
+                "noSDGSelected": "No SDGs were selected",
+                "legalRegisteredLess200Characters": "Legal registered name should be less than 200 characters",
+                "mandatoryWebsite": "No website was entered"
+            },
+            "modal": {
+                "recommend": {
+                    "title": "Amazing!",
+                    "text": "Thank you for recommending\nthis organization. We will contact \nthem to finalize the proccess",
+                    "recommendOther": "Recommend another one",
+                    "button": "Go to dashboard"
+                },
+                "represent": {
+                    "title": "Thanks! ",
+                    "text": "Your submission form has been received. We will contact you to finalize the process ",
+                    "button": "Go to dashboard"
+                }
+            }
+        }
+    },
+    "cookieError": {
+        "missingAuth": "Missing necessary authorization cookie"
+    },
+    "cookieBanner": {
+        "actions": {
+            "accept": "I accept",
+            "manage": "Manage options",
+            "confirm": "Confirm choices",
+            "consent": "Consent to all"
+        },
+        "default": {
+            "title": "We use Cookies 🍪 on our site.",
+            "text": "You can read more about it on our <0>cookies policy.<\/0>"
+        },
+        "management": {
+            "title": "Manage your Cookies 🍪",
+            "options": {
+                "strict": {
+                    "title": "Strictly necessary cookies",
+                    "text": "These cookies are essential. Without these cookies services you have asked for cannot be provided."
+                },
+                "functional": {
+                    "title": "Functional cookies",
+                    "text": "Enabling you to use language and other functionalities"
+                },
+                "analytical": {
+                    "title": "Analytical cookies",
+                    "text": "Helping us analyze the use of our site and improve it accordingly"
+                }
+            }
+        }
+    },
+    "artworkSubmissionStatus": {
+        "creation": {
+            "title": "Yay! Creation posted successfully",
+            "twitter": "I'm pushing my new creation '%1$s' on @DoinGudHQ. Check out my artwork %1$s",
+            "success": {
+                "title": "Yay! Creation posted successfully",
+                "twitter": "I'm pushing my new creation '%1$s' on @DoinGudHQ. Check out my artwork %1$s",
+                "share": "Share your new Collectibles"
+            }
+        },
+        "inSale": {
+            "title": "Yay! Creation is now for sale.",
+            "twitter": "I'm pushing my new artwork '%1$s' on @DoinGudHQ. Check out my artwork %1$s",
+            "success": {
+                "title": "Yay! Creation is now for sale.",
+                "twitter": "I'm pushing my new artwork '%1$s' on @DoinGudHQ. Check out my artwork %1$s",
+                "share": "Share your new Collectibles"
+            }
+        },
+        "share": "Share your new Collectibles",
+        "pendingRevenue": {
+            "title": "Transferring revenue to your wallet",
+            "detailBox": "Transfer on its way!",
+            "warning": "This can take a couple of minutes.",
+            "twitter": "I'm pushing my new artwork '%1$s' on @DoinGudHQ. Check out my artwork %1$s",
+            "share": "Share your Listing"
+        },
+        "successRevenue": {
+            "title": "Transferring revenue to your wallet",
+            "detailBox": "Succeeded transaction",
+            "warning": "Your request was processed",
+            "twitter": "I'm pushing my new artwork '%1$s' on @DoinGudHQ. Check out my artwork %1$s",
+            "share": "Share your Listing"
+        },
+        "failedRevenue": {
+            "title": "Transferring revenue to your wallet",
+            "detailBox": "Failed transaction",
+            "warning": "We have a problem with your request. Try again or ping us on <0>Discord<\/0>.",
+            "twitter": "I'm pushing my new artwork '%1$s' on @DoinGudHQ. Check out my artwork %1$s",
+            "share": "Share your Listing"
+        }
+    },
+    "notifications": {
+        "bell": {
+            "activity": "Activity",
+            "empty": "You don't have any new notifications.",
+            "seeAll": "See All"
+        },
+        "activity": {
+            "title": "Activity",
+            "text": "My Activity",
+            "markAll": "Mark all as read"
+        },
+        "push": {
+            "unlockedContent": "Unlocked content",
+            "shareContent": "Share your new collectibles"
+        }
+    },
+    "submitToPoolSuccessful": "Your creation was submitted to the pool",
+    "preferences": {
+        "on": "On",
+        "off": "Off",
+        "pageTitle": "Preferences",
+        "general": {
+            "sectionTitle": "General",
+            "helperText": "Show your balance in profile menu",
+            "showUsdc": "Show USDC",
+            "showMatic": "Show MATIC"
+        },
+        "notifications": {
+            "sectionTitle": "Notifications",
+            "infoBox": {
+                "message": "<0>Add your email<\/0> address to receive notifications about your activity on Doingud"
+            },
+            "viaEmail": "By email",
+            "viaApp": "In-app",
+            "activity": {
+                "collection": {
+                    "title": "Collection activities",
+                    "subTitle": "Buy, receive or transfer"
+                },
+                "creation": {
+                    "title": "Creation activities",
+                    "subTitle": "Your sales, offers, and bids"
+                },
+                "gallery": {
+                    "title": "Gallery activities",
+                    "subTitle": "Proposals"
+                },
+                "general": {
+                    "title": "General activities",
+                    "subTitle": "Social, money and platform"
+                },
+                "newsletter": {
+                    "title": "Newsletter",
+                    "subTitle": "Press release from DoinGud"
+                }
+            }
+        }
+    },
+    "apiToastResponse": {
+        "error": {
+            "sendWyre": "There was an issue loading Wyre Services",
+            "fetchCollection": "There was an issue fetching your collection.",
+            "authProfile": "There was an issue authenticating your profile!",
+            "fetchProfile": "There was an issue fetching your profile!",
+            "saveProfile": "There was an error while saving your profile."
+        },
+        "success": {
+            "sendWyre": "Successfully made Wyre purchase transaction.",
+            "updateProfile": "Your profile was updated successfully!"
+        }
+    },
+    "connectEmail": "Connect with email",
+    "removeFromSaleModal": {
+        "title": "Are you sure you want to remove the sale?",
+        "baseline": "You can put the creation back on sale any time you want",
+        "action": "Yes, remove",
+        "success": "Your creation has been removed from sale",
+        "error": "Error while removing your creation from sale"
+    },
+    "removeFromPoolModal": {
+        "title": "Are you sure you want to remove from pool?",
+        "baseline": "If you remove the creation, it will no longer be visible by galleries",
+        "action": "Yes, remove",
+        "success": "Your creation has been removed from pool",
+        "error": "Error while removing your creation from pool"
+    },
+    "proposals": {
+        "dutchAuction": "Dutch Auction",
+        "englishAuction": "English Auction",
+        "instantBuy": "Instant Buy",
+        "openOffer": "Open Offer",
+        "proposalPending": "New proposal",
+        "proposalPendingText": "%1$s wants to host your creation for a drop. By partnering with a gallery, your creation can be sold using special sale types and visible to more people.",
+        "proposalAccepted": "Proposal accepted",
+        "proposalAcceptedText": "You accepted this gallery proposal on %1$s The gallery will promote your work and make sure you are visible to more people.",
+        "proposalRefused": "Proposal rejected",
+        "proposalRefusedText": "You rejected this proposal on %1$s",
+        "proposalRefusedNote": "Declination Note",
+        "gallery": "Gallery",
+        "sale": "Sale type",
+        "rankedEdition": "Ranked Open Edition",
+        "roeSaleDescription": "Participants bid to get an edition of an NFT. At the end of the auction, participants are ranked based on their bids, and get an edition accordingly (Highest bid provides the 1st edition).",
+        "englishSaleDescription": "You bid to get an edition of a creation within a specified time period. By the end of the auction, the highest bidder will win the creation.",
+        "triggeredEnglishSaleDescription": "A timed auction that will begin after a first bid is placed. The winner will be the highest bidder at the end of the auction timer.",
+        "openEdition": "Ranked Open Edition",
+        "price": "Price to enter",
+        "primaryMarket": "Primary Market",
+        "secondaryMarket": "Secondary Market",
+        "profit": " profit",
+        "yourProfit": "Your Profit",
+        "galleryProfit": "Gallery profit",
+        "royalties": " royalties",
+        "yourRoyalties": "Your Royalties",
+        "collaboratorRoyalties": "Collaborator Royalties",
+        "galleryRoyalties": "Gallery Royalties",
+        "fee": "The platform doesn't charge creators any fees for selling their creations.",
+        "agreeTerms": "By confirming this you will be agree with our <0>Terms and Conditions<\/0>",
+        "terms": "Terms and Conditions",
+        "warningSale": "By accepting this gallery's proposal, your creation will be removed from sale from your profile and scheduled for sale in the gallery.",
+        "reject": "Reject",
+        "accept": "Accept",
+        "acceptSuccess": "Your creation is on an upcoming drop",
+        "signatureError": "Proposal must be signed",
+        "rejectSuccess": "You declined a gallery proposal",
+        "rejectAsking": "Are you sure you want to reject this proposal?",
+        "rejectLabelNote": "Leave a note for the gallery",
+        "rejectProposal": "Reject proposal",
+        "acceptErrors": {
+            "DROP_PUBLISHED": "Proposal cannot be accepted, drop has been already published",
+            "DROP_ALREADY_STARTED": "Proposal cannot be accepted, drop has already started",
+            "NOT_AUTHORIZED": "Cannot accept proposal if you are not the creator",
+            "ALREADY_ACCEPTED": "Proposal already accepted",
+            "ALREADY_REJECTED": "Proposal already rejected",
+            "INVALID": "Proposal $%1$s cannot be accepted, user signature not valid"
+        }
+    },
+    "web3": {
+        "error": {
+            "network": "Failed to connect to the network, please try again",
+            "wrongSigner": "Signer must be the same as creator's address",
+            "unknown": "Something went wrong",
+            "rejected": "User has rejected the transaction",
+            "denied": "User denied transaction signature.",
+            "subgraph": "Failed to connect to the subgraph",
+            "unknownFaucet": "Sorry we don't known any faucets for this chain"
+        },
+        "tx": {
+            "success": "Your request was processed successfully",
+            "view": "View transaction",
+            "pending": "Your %1$s is pending",
+            "error": "The request was reverted"
+        }
+    },
+    "marketInsights": {
+        "labels": {
+            "marketInsights": "Market insights",
+            "primaryProceeds": "Primary Proceeds",
+            "secondaryMarket": "Secondary Market",
+            "authentication": "Proof of Authenticity"
+        },
+        "authenticity": {
+            "minted": "Minted",
+            "network": "Network",
+            "contractAddress": "Contract address",
+            "contractName": "Contract name",
+            "tokenId": "Token ID",
+            "tokenType": "Token type",
+            "creatorAddress": "Creator address",
+            "error": "Could not load authenticity"
+        },
+        "market": {
+            "editionQuantity": "Edition Quantity",
+            "originalPrice": "Original price",
+            "lastSold": "Last sold",
+            "highestOffer": "Highest offer",
+            "averagePrice": "Average Sale Price",
+            "error": "Could not load market insights"
+        },
+        "primaryMarket": {
+            "creators": "Creators",
+            "socialImpact": "Social impact",
+            "gallery": "Gallery"
+        },
+        "secondaryMarket": {
+            "creatorRoyalty": "Creator royalties",
+            "collaboratorRoyalties": "%1$s royalties",
+            "royalties": "%1$s royalties"
+        }
+    },
+    "artworkCta": {
+        "multipleCreators": "Multiple creators",
+        "unknownCreator": "Unknown",
+        "connect": "Connect to buy",
+        "buy": "Buy",
+        "share": "Share",
+        "delete": "Delete",
+        "transfer": "Transfer",
+        "burn": "Burn editions",
+        "sell": "Sell on profile",
+        "removeSale": "Remove from sale",
+        "removePool": "Remove from pool",
+        "edit": "Edit",
+        "editPrice": "Edit Price",
+        "viewProposal": "View Proposal",
+        "report": "Report",
+        "claim": "Claim",
+        "resale": "Sale on my profile"
+    },
+    "removeImageConfirmation": {
+        "remove": "Remove",
+        "confirm": "Confirm",
+        "header": "Are you sure you want remove this cover?",
+        "profile": "Are you sure you want remove this image?",
+        "update": {
+            "success": "Your profile image has been removed!",
+            "fail": "There was an issue updating your profile"
+        }
+    },
+    "deleteArtworkModal": {
+        "title": "Are you sure you want delete this creation?",
+        "text": "If you delete this creation, there will be no way of undoing this action",
+        "cta": "Yes, Delete",
+        "success": "Success, artwork removed from profile.",
+        "error": "There was an error deleting this artwork."
+    },
+    "beta": "Beta",
+    "purchaseCheckout": {
+        "title": "Your purchase",
+        "text": "Hey %1$s! Complete your details to own this creation",
+        "doingudServiceCharge": "DoinGud service charge (%1$s%)",
+        "socialCause": "Social Cause",
+        "secondaryMarket": "Secondary Market",
+        "nextSteps": "Follow next steps",
+        "support": "%1$s is supported by %1$s USDC with this sale.",
+        "price": "Price",
+        "youWillPay": "You will pay",
+        "secondaryRevenue": "Your resale revenue will be <0>%1$s%<\/0>",
+        "creatorRevenue": "Creators will get %1$s% of resale revenue",
+        "sioRevenue": "Social cause will get %1$s% of resale revenue",
+        "galleryRevenue": "The gallery will get %1$s% of resale revenue",
+        "pending": {
+            "title": "Processing payment",
+            "detailBox": "Processing payment",
+            "warning": "This can take up to 1 minute. We’ll notify you once its ready"
+        },
+        "success": {
+            "title": "Processing payment",
+            "detailBox": "Succeeded transaction",
+            "warning": "Congrats! You own a new creation"
+        },
+        "failed": {
+            "title": "Processing payment",
+            "detailBox": "Failed transaction",
+            "warning": "Your transaction could not be completed, please try again"
+        },
+        "txUnfinished": {
+            "title": "The transaction could not be completed",
+            "warning": "Your transaction could not be completed, please try again"
+        }
+    },
+    "addFundsModal": {
+        "warning": "You need %1$s Matic in order to make this transaction possible",
+        "ctaText": "Add funds"
+    },
+    "artworkEdit": {
+        "error": "Error while saving your creation"
+    },
+    "claimNftModal": {
+        "title": "Receive your edition in your wallet",
+        "text": "This could take several minutes. Please be patient. ",
+        "cta": "Confirm",
+        "success": "Successfully claimed edition n. %1$s"
+    },
+    "transferNft": {
+        "title": "Transfer ownership",
+        "text": "Transfer the ownership of your creation to someone else",
+        "label": "Transfer to",
+        "send": "Transfer",
+        "placeholder": "ETH Wallet address or Username",
+        "errors": {
+            "invalid": "Address is not valid",
+            "sameAddress": "Cannot transfer artwork to the same address"
+        },
+        "pending": {
+            "title": "Transfer on its way!",
+            "detailBox": "Pending transaction",
+            "warning": "This can take a couple of minutes."
+        },
+        "success": {
+            "title": "Transfer on its way!",
+            "detailBox": "Succeeded transaction",
+            "warning": "<0>@%1$s<\/0> <1>is the new owner of (%1$s).<\/1>"
+        },
+        "failed": {
+            "title": "Transfer on its way!",
+            "detailBox": "Failed transaction",
+            "warning": "Your transaction could not be completed, please try again"
+        },
+        "txUnfinished": {
+            "title": "The transaction could not be completed",
+            "warning": "Your transaction could not be completed, please try again"
+        }
+    },
+    "claimEdition": {
+        "pending": {
+            "title": "You are receiving the ownership",
+            "detailBox": "Pending transaction",
+            "warning": "This can take a couple of minutes."
+        },
+        "success": {
+            "title": "You are receiving the ownership",
+            "detailBox": "Succeeded transaction",
+            "warning": "Your request was processed"
+        },
+        "failed": {
+            "title": "You are receiving the ownership",
+            "detailBox": "Failed transaction",
+            "warning": "We have a problem with your request. Try again or ping us on Discord."
+        }
+    },
+    "resaleModal": {
+        "pending": {
+            "title": "Creation being put up for sale",
+            "detailBox": "Pending transaction",
+            "warning": "This can take a couple of minutes."
+        },
+        "success": {
+            "title": "Creation being put up for sale",
+            "detailBox": "Succeeded transaction",
+            "warning": "Your request was processed"
+        },
+        "failed": {
+            "title": "Creation being put up for sale",
+            "detailBox": "Failed transaction",
+            "warning": "We have a problem with your request. Try again or ping us on Discord."
+        }
+    },
+    "manageFunds": {
+        "title": "Manage funds",
+        "text": "Transfer USDC and MATIC on Polygon Mainnet",
+        "address": "Wallet: %1$s",
+        "copy": "Copy Address",
+        "paymentService": {
+            "title": "Select a payment service",
+            "text": "Add balance to your funds on Polygon Mainnet.",
+            "recommended": "Recommended"
+        },
+        "method": {
+            "balance": "Balance:",
+            "usdc": {
+                "cta": "Buy token with card",
+                "text": "Is a digital stablecoin that is pegged to the U.S. dollar and runs on different blockchains."
+            },
+            "matic": {
+                "cta": "Request free MATIC",
+                "text": "This token is needed to send transactions. You can request it for free 3 times per day."
+            },
+            "bridge": {
+                "title": "Swap USDC or MATIC between chains",
+                "text": "Deposit or withdraw from Etherium mainet.",
+                "cta": "Polygon Bridge"
+            },
+            "withdraw": {
+                "title": "Withdraw your funds",
+                "text": "Send assets to any address on the Polygon Network.",
+                "cta": "Send funds"
+            }
+        },
+        "sendFunds": {
+            "title": "Send funds",
+            "addressLabel": "Send To",
+            "addressPlaceholder": "Address existing on the Polygon Network",
+            "amountLabel": "Amount",
+            "balanceDisplay": "Balance: %1$s %1$s",
+            "cta": "Send",
+            "invalidAddress": "Invalid Polygon Network address",
+            "error": "The transaction could not be completed",
+            "pending": {
+                "title": "Your transfer is submitted",
+                "detailBox": "Pending transaction",
+                "warning": "This can take up to 1 minute. We’ll notify you once its ready"
+            },
+            "success": {
+                "title": "Your transfer is submitted",
+                "detailBox": "Succeeded transaction",
+                "warning": "Your assets was sent successfully"
+            },
+            "failed": {
+                "title": "Your transfer is submitted",
+                "detailBox": "Failed transaction",
+                "warning": "We have a problem with your request."
+            },
+            "txUnfinished": {
+                "title": "The transaction could not be completed",
+                "warning": "Your transaction could not be completed, please try again"
+            }
+        }
+    }
+}
